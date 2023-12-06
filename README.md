@@ -2,12 +2,6 @@
 <p align="center">Show the world the most gas-optimized,secure contract it has ever seen(Just Kidding,It's beginner friendly)</p>
 <p align="center">
 
-<p align="center">
-  <a href="https://github.com/metafy-social/web3-smart-contracts/issues"><img src="https://img.shields.io/github/issues/metafy-social/web3-smart-contracts?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/metafy-social/web3-smart-contracts/fork"><img src="https://img.shields.io/github/forks/metafy-social/web3-smart-contracts?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/github/stars/metafy-social/web3-smart-contracts?style=for-the-badge&logo=appveyor"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/metafy-social/web3-smart-contracts/blob/master/LICENSE"><img src="https://img.shields.io/github/license/metafy-social/web3-smart-contracts?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-</p>
 
 <p align="center">
   <a href="#"><img src="https://forthebadge.com/images/badges/built-with-love.svg" /></a>&nbsp;&nbsp;
@@ -24,7 +18,7 @@
 ## Hacktoberfest 2022 Update
 
 **See full details and guidelines on**
-  * [Hacktober cheasheat](https://github.com/metafy-social/py-scripts/blob/master/HACKTOBERFEST.md)
+  * [Hacktober cheasheat]
   * [Official website](https://hacktoberfest.digitalocean.com/)
 
 
@@ -34,7 +28,7 @@ You can contribute by adding new scripts, improving current scripts or Documenta
 
 ## Here are the steps to Make contribute 👣
 
-- [x] Take a look at [Contributing Guide](https://github.com/metafy-social/py-scripts/blob/master/CONTRIBUTING.md) (Necessary)
+- [x] Take a look at [Contributing Guide](Necessary)
 - [x] Create an issue for making any change to code. when issue will be approve you can make a change.
 - [x] Pull latest change from upstream branch before starting the changing code.
 - [x] Add your file in proper folder(lowercase) with README.md in it. Add requirements.txt if needed.

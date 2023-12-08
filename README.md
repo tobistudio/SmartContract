@@ -40,13 +40,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/advaita-saha">
-            <img src="https://avatars.githubusercontent.com/u/30210770?v=4" width="100;" alt="advaita-saha"/>
-            <br />
-            <sub><b>Advaita Saha</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/adityabhattad2021">
             <img src="https://avatars.githubusercontent.com/u/93488388?v=4" width="100;" alt="adityabhattad2021"/>
             <br />

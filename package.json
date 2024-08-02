@@ -15,7 +15,7 @@
     "@typechain/ethers-v5": "^10.1.0",
     "@typechain/hardhat": "^6.1.2",
     "@types/mocha": "^9.1.0",
-    "chai": "^4.2.0",
+    "chai": "^4.4.1",
     "ethers": "^5.0.0",
     "hardhat-gas-reporter": "^2.0.0",
     "solidity-coverage": "^0.8.5",
